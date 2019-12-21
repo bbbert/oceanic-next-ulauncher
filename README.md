@@ -1,6 +1,6 @@
-# Oceanic Next Dark for Ulauncher
+# Oceanic Next for Ulauncher
 
-A theme for Ulauncher using colors from [Oceanic Next](https://github.com/mhartington/oceanic-next),
+A theme for Ulauncher using the dark colors from [Oceanic Next](https://github.com/mhartington/oceanic-next),
 based on the default Adwaita theme.
 
 ![Screenshot](../assets/screenshot.png?raw=true)
